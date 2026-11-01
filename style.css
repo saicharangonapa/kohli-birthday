@@ -1,0 +1,37 @@
+body{
+	font-family: sans-serif;
+	background-color: white;
+	margin: 20px;
+	text-align: justify;
+}
+h1{
+	color: darkred;
+}
+h2{
+	color: blue;
+}
+img{
+	border-radius: 16px;
+}
+figcaption{
+	font-size: 25px;
+	color: black;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 25px;
+	background-color: white;
+}
+th, td{
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center;
+}
+th{
+	background-color: darkred;
+	color: white;
+}
+tr{
+	background-color: lightblue;
+}
